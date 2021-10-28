@@ -1,2 +1,2 @@
 # Forca_CPP
- Jogo da forca ṕara treinar programação em C++
+ Jogo da forca para treinar programação em C++
